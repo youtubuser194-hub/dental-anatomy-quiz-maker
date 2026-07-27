@@ -1,13 +1,5 @@
 # 🦷 DentoQuest — Dental Anatomy & INBDE Board Suite
 
-> **Final Project Submission** — *Ship Your AI App*  
-> **Author:** Syeda  
-> **Institution:** Dow University of Health Sciences, Karachi  
-> **Course:** Batch 2 (3:30 PM - 5:00 PM)  
-> **Date:** July 2026  
-
----
-
 ## 🔗 Live Application & GitHub Repository
 
 * **🚀 Deployed Live App:** [https://ais-pre-3vc3ps2x72j3gmirulz7wo-188103614025.asia-east1.run.app](https://ais-pre-3vc3ps2x72j3gmirulz7wo-188103614025.asia-east1.run.app)
