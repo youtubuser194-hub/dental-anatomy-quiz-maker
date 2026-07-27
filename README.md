@@ -101,24 +101,6 @@ Provide an engaging, highly educational breakdown for a dental student:
 * **Audio Engine:** Web Speech API (`SpeechSynthesis`) for anatomical term pronunciation
 * **Data Serialization:** JSON export/import for custom quiz decks
 
----
-
-## 📸 Screenshots of DentoQuest in Action
-
-### **1. Micro-Anatomy Interactive Atlas & Spotter Mode**
-![Anatomical Tooth Diagram](https://raw.githubusercontent.com/syeda/dentoquest/main/assets/screenshot-anatomy.png)
-*Interactive cross-section of maxillary incisor crown & root apparatus showing enamel, dentin, pulp, cementum, PDL, and alveolar bone with Spotter speed test overlay.*
-
-### **2. Universal & FDI Dental Arch Numbering Atlas**
-![Dental Arch Chart](https://raw.githubusercontent.com/syeda/dentoquest/main/assets/screenshot-arch.png)
-*Full 32-tooth maxillary and mandibular arch grid with instant notation toggling (#1-32 Universal, #11-48 FDI, Palmer) and tooth inspector panel.*
-
-### **3. Gemini AI Quiz Generator & Rationale Engine**
-![AI Quiz Generator](https://raw.githubusercontent.com/syeda/dentoquest/main/assets/screenshot-ai.png)
-*Gemini AI quiz generator modal creating tailored board-style clinical vignettes with detailed anatomical rationales and mnemonics.*
-
----
-
 ## ⚙️ How to Run the Project Locally
 
 ### **Prerequisites**
