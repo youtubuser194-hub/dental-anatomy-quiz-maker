@@ -136,11 +136,3 @@ Open your browser and navigate to `http://localhost:3000`.
 npm run build
 npm start
 ```
-
----
-
-## 🎓 Academic Acknowledgments
-
-Developed by **Syeda** for the **Dow University of Health Sciences (DUHS)** AI Web Applications Course (Batch 2). Special thanks to course instructors and peers for feedback during development.
-
-*Built with passion for dental education and AI technology.*
