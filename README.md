@@ -110,7 +110,7 @@ Provide an engaging, highly educational breakdown for a dental student:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/syeda/dentoquest.git
+git clone https://github.com/youtubuser194-hub/dentoquest.git
 cd dentoquest
 ```
 
