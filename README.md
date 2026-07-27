@@ -3,7 +3,6 @@
 ## 🔗 Live Application & GitHub Repository
 
 * **🚀 Deployed Live App:** [https://ais-pre-3vc3ps2x72j3gmirulz7wo-188103614025.asia-east1.run.app](https://ais-pre-3vc3ps2x72j3gmirulz7wo-188103614025.asia-east1.run.app)
-* **💻 GitHub Repository:** `https://github.com/syeda/dentoquest` *(Replace with your public GitHub link)*
 
 ---
 
