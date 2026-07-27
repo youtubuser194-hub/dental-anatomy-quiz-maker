@@ -141,3 +141,5 @@ SCREENSHOTS OF APP:
 https://github.com/youtubuser194-hub/dental-anatomy-quiz-maker/blob/main/quiz%201.png?raw=true
 
 https://github.com/youtubuser194-hub/dental-anatomy-quiz-maker/blob/main/quiz%202.png?raw=true
+
+https://github.com/youtubuser194-hub/dental-anatomy-quiz-maker/blob/main/quiz%203.png?raw=true
